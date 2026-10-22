@@ -9,7 +9,6 @@ Soy Mateo, desarrollador full stack de Concepción del Uruguay, Entre Ríos. Con
 - ✦ Analista de Sistemas · estudiante de 4.° año de la Lic. en Sistemas de Información (UADER)
 - ✦ Trabajo con metodologías ágiles como Scrum, con entregas organizadas en sprints
 - ✦ Certificado Ethical Hacker (Cisco Networking Academy)
-- ✦ Me interesan la astronomía y las tecnologías espaciales
 
 ## Mapa estelar del stack
 
