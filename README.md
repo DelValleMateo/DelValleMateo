@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-Soy Mateo, desarrollador full stack de Concepción del Uruguay, Entre Ríos. Construyo aplicaciones web y móviles de punta a punta: diseño la base de datos, escribo la API y desarrollo la interfaz. Me importa el código claro, los sistemas que escalan y entregar productos que funcionen bien en producción.
+Soy Mateo, desarrollador full stack de Concepción del Uruguay, Entre Ríos. Construyo aplicaciones web y móviles de punta a punta. Me importa el código claro, los sistemas que escalan y entregar productos que funcionen bien en producción.
 
 - ✦ Analista de Sistemas · estudiante de 4.° año de la Lic. en Sistemas de Información (UADER)
 - ✦ Trabajo con metodologías ágiles como Scrum, con entregas organizadas en sprints
